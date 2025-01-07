@@ -44,7 +44,7 @@ The **Blinkit Sales Analysis Dashboard** is a comprehensive data visualization t
 ```plaintext
 ├── README.md              # Project documentation
 ├── suriyan's blinkit project.pbix(Dashboard) # Power BI dashboard file
-├──  Dashboard screenshots       # Images of the dashboard
+├── BlinkIT Sales Analysis Dashboard Image.png      # Image of the dashboard
 └── BlinkIT Gracery Data    #data file
 ```
 
@@ -59,14 +59,14 @@ The **Blinkit Sales Analysis Dashboard** is a comprehensive data visualization t
 ---
 
 ## 🖼️ Dashboard Preview
-![Blinkit Dashboard Screenshot]([./screenshots/dashboard_preview.png](https://github.com/Suriyancdurai/Blinkit-Sales-Analysis/blob/main/BlinkIT%20Sales%20Analysis%20Dashboard%20Image.png))
+![Blinkit Dashboard Screenshot](https://github.com/Suriyancdurai/Blinkit-Sales-Analysis/blob/main/BlinkIT%20Sales%20Analysis%20Dashboard%20Image.png)
 
 ---
 
 ## 📋 How to Use
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/blinkit-sales-dashboard.git](https://github.com/Suriyancdurai/Blinkit-Sales-Analysis)
+   git clone [https://github.com/Suriyancdurai/Blinkit-Sales-Analysis]
    ```
 2. **Open the `.pbix` File:**
    - Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
