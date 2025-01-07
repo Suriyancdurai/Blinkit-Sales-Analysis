@@ -59,18 +59,18 @@ The **Blinkit Sales Analysis Dashboard** is a comprehensive data visualization t
 ---
 
 ## 🖼️ Dashboard Preview
-![Blinkit Dashboard Screenshot](./screenshots/dashboard_preview.png)
+![Blinkit Dashboard Screenshot]([./screenshots/dashboard_preview.png](https://github.com/Suriyancdurai/Blinkit-Sales-Analysis/blob/main/BlinkIT%20Sales%20Analysis%20Dashboard%20Image.png))
 
 ---
 
 ## 📋 How to Use
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/blinkit-sales-dashboard.git
+   git clone [https://github.com/your-username/blinkit-sales-dashboard.git](https://github.com/Suriyancdurai/Blinkit-Sales-Analysis)
    ```
 2. **Open the `.pbix` File:**
    - Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-   - Open the `blinkit_dashboard.pbix` file in Power BI.
+   - Open the `suriyan's blinkit project.pbix` file in Power BI.
 
 3. **Explore the Dashboard:**
    - Use filter panels to view insights by:
@@ -91,10 +91,8 @@ Contributions are welcome! If you'd like to improve the dashboard or add new fea
 ## 📧 Contact
 If you have any questions or feedback, feel free to reach out:
 
-- **Author:** [Your Name]  
-- **Email:** your.email@example.com  
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Author:** [SURIYAN.C]  
+- **Email:** suriezhil001@example.com  
+- **GitHub:** [Suriyancdurai](https://github.com/Suriyancdurai)
 
 ---
-
-Would you like help customizing this further for a specific audience or purpose?
